@@ -50,6 +50,8 @@ nav ul li {
     border-radius: 12px;
     padding: 34px;
     background-image: url('bg.jfif');
+
+background-repeat: no-repeat, repeat;
 }
 
 .bottom {
